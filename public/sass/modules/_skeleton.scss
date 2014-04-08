@@ -1,0 +1,20 @@
+body {
+	font-family: $mainFont;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.task-wrapper {
+	background: $lightOrange;
+	padding: 5px;
+	border-bottom: 1px solid $orange;
+	color: $darkOrange;
+}

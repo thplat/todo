@@ -1,0 +1,14 @@
+button, a.button, input[type="submit"] {
+	background: #fff;
+	border: 1px solid $orange;
+	padding: 4px;
+	margin: 7px 0;
+	display: inline-block;
+	color: $darkOrange;
+	cursor: pointer;
+	text-decoration: none;
+
+	&:hover {
+		background: #FFE7D1;
+	}
+}
